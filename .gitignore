@@ -1,0 +1,7 @@
+.conda/
+Human Action Recognition
+main.ipynb
+notebook392a344aff.ipynb
+resnet.tflearn/
+resnet.h5
+vgg.h5
