@@ -1,3 +1,4 @@
 # Projects of Machine Learning
 
-## Sample project -1 : CNN for human activity recognition
+## binary_clf : using nn for binary classification
+Classifying movie reviews as positive or negative
