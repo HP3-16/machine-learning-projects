@@ -7,3 +7,5 @@ resnet.h5
 vgg.h5
 malaria-detection/
 main_ed.ipynb
+sentiment140/
+keys.json
