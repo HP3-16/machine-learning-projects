@@ -1,11 +1,13 @@
-.conda/
+.conda
 Human Action Recognition
 main.ipynb
-notebook392a344aff.ipynb
 resnet.tflearn/
+notebook392a344aff.ipynb
 resnet.h5
 vgg.h5
-malaria-detection/
 main_ed.ipynb
-sentiment140/
+malaria-detection/cell-images-for-detecting-malaria
 keys.json
+sentiment140/
+boston-house-price-pred/boston-house-prices
+__pycache__
