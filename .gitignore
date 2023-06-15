@@ -10,3 +10,8 @@ boston-house-price-pred/
 sentiment140/
 keys.json
 malaria-detection/cell-images-for-detecting-malaria/
+malaria-detection/cell-images-for-detecting-malaria
+keys.json
+sentiment140/
+boston-house-price-pred/boston-house-prices
+__pycache__
