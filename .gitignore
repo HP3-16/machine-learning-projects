@@ -15,3 +15,4 @@ keys.json
 sentiment140/
 boston-house-price-pred/boston-house-prices
 __pycache__
+.vscode/
