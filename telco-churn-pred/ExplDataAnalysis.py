@@ -22,4 +22,9 @@ def plot_expl(df,cols):
             axes[1].bar_label(val,label_type="center",fmt='%.f%%')
         plt.show()
         
+def cdf_plot(df,cols):
+    for col in cols:
+        print("Churn distribution by {}".format(col))
+        sns.ecdfplot(data=df,x=col,hue='Churn',palette=['#BBC4A9','#B1A9C4'])
+        plt.show()
 
